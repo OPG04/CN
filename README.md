@@ -38,13 +38,21 @@ The final submission is organized into the required directory structure:
 
 Sanjay-PramodhLab-3/
 ├── A/
-│   ├── client.py         (Partner A's Thread-based Client)
-│   ├── server.py         (Partner A's Not thread-based Server)
-│   └── uap_header.py     (Shared Protocol Definitions)
+│
+├── client.py         (Partner A's Thread-based Client)
+│
+├── server.py         (Partner A's Not thread-based Server)
+│ 
+└── uap_header.py     (Shared Protocol Definitions)
+
+
 ├── B/
-│   ├── client.py         (Partner B's Not thread-based Client)
-│   ├── server.py         (Partner B's Thread-based Server)
-│   └── uap_header.py     (Shared Protocol Definitions)
+│ 
+├── client.py         (Partner B's Not thread-based Client)
+│  
+├── server.py         (Partner B's Thread-based Server)
+│  └── uap_header.py     (Shared Protocol Definitions)
+|
 └── readme.txt            (This file)
 
 
