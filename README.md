@@ -36,24 +36,11 @@ The project is structured according to the roles assigned in the lab document:
 
 The final submission is organized into the required directory structure:
 
-Sanjay-PramodhLab-3/
-├── A/
-│
-├── client.py         (Partner A's Thread-based Client)
-│
-├── server.py         (Partner A's Not thread-based Server)
-│ 
-└── uap_header.py     (Shared Protocol Definitions)
+Sanjay-PramodhLab-3
+A(Client Threaded and Non Threaded Server)
 
 
-├── B/
-│ 
-├── client.py         (Partner B's Not thread-based Client)
-│  
-├── server.py         (Partner B's Thread-based Server)
-│  └── uap_header.py     (Shared Protocol Definitions)
-|
-└── readme.txt            (This file)
+B(Client Non-Threaded and server Threaded)
 
 
 -----------------------------
