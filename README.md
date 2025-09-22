@@ -1,5 +1,5 @@
 
-Lab Assignment 3: Network Programming / UDP
+Network Programming / UDP
 =====================================================
 
 Team Members:
